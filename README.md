@@ -1,0 +1,1 @@
+This is a nonogram written in java that allow user to upload bmp files, and play nonograms,it has  a extra window to for changeing different colors.and when all the colored pixels are correct the game will be finished, but users can always press"CHECK!"to see where they get wrong 
